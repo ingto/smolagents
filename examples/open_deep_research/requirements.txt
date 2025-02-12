@@ -6,7 +6,7 @@ huggingface_hub>=0.23.4
 mammoth>=1.8.0
 markdownify>=0.13.1
 numexpr>=2.10.1
-numpy>=2.1.2
+numpy>=2.0.2
 openai>=1.52.2
 openpyxl
 pandas>=2.2.3
